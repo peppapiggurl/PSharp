@@ -1,3 +1,4 @@
+![psharp](https://user-images.githubusercontent.com/132211978/235479705-641a4bdd-a7cf-4259-90b4-582aaa0f801b.png)
 # PSharp
 Advanced &amp; easy to use version of C-Sharp for people who can't code properly in C#. This is just a simple project so therefore it's not entirely possible to make a complete powerful software using this. 
 
