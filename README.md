@@ -1,6 +1,5 @@
 # PSharp
-![psharp](https://user-images.githubusercontent.com/132211978/235479705-641a4bdd-a7cf-4259-90b4-582aaa0f801b.png)
-Advanced &amp; easy to use version of C-Sharp for people who can't code properly in C#. This is just a simple project so therefore it's not entirely possible to make a complete powerful software using this. 
+![psharp](https://user-images.githubusercontent.com/132211978/235479705-641a4bdd-a7cf-4259-90b4-582aaa0f801b.png)Advanced and easy to use version of C-Sharp for people who can't code properly in C#. This is just a simple project so therefore it's not entirely possible to make a complete powerful software using this. 
 
 # How-to-install
 Installing PSharp is very easy. Go to the releases tab and download the "PSharp.CS" file and then go to Visual Studio and create a new Winforms project (This is only supported in Winforms for now otherwise you'll get annoying errors). Then right click on the solution and press "Add" > "Add existing file" and then select the PSharp.CS file and you are ready to use PSharp by using "using P_Sharp;"!
