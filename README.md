@@ -11,3 +11,47 @@ Please go to the releases tab > download the PSharp.CS file and then add it to y
 
 # What is this made for
 Please understand that PSharp was originally made for ROBLOX exploits because we develop ROBLOX exploits. We've been noticing people struggling with basic C# so we've decided to make this masterpiece for you, and for everyone.
+
+# Basic documenation
+Print function:
+```
+PSharp.Prnt("Hello World!") //Alternatively you can use a variable as well.
+```
+
+Control flow:
+```
+PSharp.If(condition, () =>
+{
+    // If condition is true, execute this action.
+});
+
+PSharp.If(condition, () =>
+{
+    // If condition is true, execute this action.
+}, () =>
+{
+    // If condition is false, execute this action.
+});
+
+PSharp.If(condition, () =>
+{
+    // If condition is true, execute this action.
+}, () =>
+{
+    // If condition is false, execute this action.
+}, elseIfCondition);
+
+PSharp.If(condition, () =>
+{
+    // If condition is true, execute this action.
+}, () =>
+{
+    // If condition is false, execute this action.
+}, elseIfAction, elseIfCondition);
+```
+
+Yes, it's big XD.
+
+And so much more you can find in the "PSharp.cs" file!
+
+# End
