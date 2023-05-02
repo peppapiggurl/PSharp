@@ -20,6 +20,7 @@ PSharp.Prnt("Hello World!") //Alternatively you can use a variable as well.
 
 Control flow:
 ```
+c
 PSharp.If(condition, () =>
 {
     // If condition is true, execute this action.
